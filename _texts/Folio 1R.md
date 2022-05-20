@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: L'aiguillon d'amour divine
+title: Folio 1R
 author: James of Milan
 editor: Aaron Kestle
-source: Folio 1R
+source: Beinecke MS 1166
 ---
 
 ![Beinecke MS 1166](https://raw.githubusercontent.com/oldfrenchtexts/randomtexts/master/assets/Beinecke%20MS%201166%20Small.jpg)
