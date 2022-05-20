@@ -1,30 +1,21 @@
 ---
-layout: poem
-title: Delayed till she had ceased to know
-author: Emily Dickinson
-editor: Alex Gil
-source: "Bartleby.com"
+layout: narrative
+title: L'aiguillon d'amour divine
+author: James of Milan
+editor: Aaron Kestle
+source: Beinecke MS 1166
 ---
 
-- DELAYED till she had ceased to know,
-- Delayed till in its vest of snow
-- {:.indent-2}Her loving bosom lay.
-- An hour behind the fleeting breath,
-- Later by just an hour than death,—
-- {:.indent-2}Oh, lagging yesterday!
+![Beinecke MS 1166](https://raw.githubusercontent.com/oldfrenchtexts/randomtexts/master/assets/Beinecke%20MS%201166%20Small.jpg)
 
+# Transcription
 
-- Could she have guessed that it would be;
-- Could but a crier of the glee	
-- {:.indent-2}Have climbed the distant hill;
-- Had not the bliss so slow a pace,—
-- Who knows but this surrendered face
-- {:.indent-2}Were undefeated still?
+**Ave** maria gracia plena dominus tecum
 
+**A** toy roy souverain mon trespuissant createur mon tresamoureux redempteur jhesus
 
-- Oh, if there may departing be
-- Any forgot by victory
-- {:.indent-2}In her imperial round,
-- Show them this meek apparelled thing,
-- That could not stop to be a king,
-- {:.indent-2}Doubtful if it be crowned!
+# Translation
+
+Latin: Hail, Mary, full of grace, the Lord is with thee
+
+French: To you sovereign king, my most powerful creator, my most loving redeemer, Jesus
