@@ -10,12 +10,48 @@ source: Beinecke MS 1166
 
 # Transcription
 
-**Ave** maria gracia plena dominus tecum
+de creature quant iay regarde la droitu 
 
-**A** toy roy souverain mon trespuissant createur mon tresamoureux redempteur jhesus
+riere sentence de nostre seigneur qui mestoit don 
+
+nee pour droit iugement auoir Ne onques 
+
+ne me greua faussete de fiance que ie trou 
+
+uasse en creature quant iay regarde que 
+
+iauoie este a dieu si mal fiable Ne onques 
+
+ne quis solas en creature quant iay re
+
+garde qui sanz tache de pechie ne le pou 
+
+oie maintenir et pource mon cue rest es 
+
+cieulz auec les angelz Ne onques ne 
+
+me pleut le monde quant iay regarde 
+
+que iestoie en chartre dedens Ne onques 
+
+ne me pleut mille manière douceur du 
+
+monde quant iay pense a la tresdoulce 
+
+melodie qui est entre les angelz et les 
+
+sains en gloire Ne onques ne me peut 
+
+nulle tribulation destourber quant iay 
+
+regarde que sy peu duroit et le grant loyer 
+
+sans fin que dieu en promet Ne onques 
+
+ne masseuray  en trop grant esperance 
+
+que adez meusse cremeur et doubtance quant
 
 # Translation
 
-Latin: Hail, Mary, full of grace, the Lord is with thee
-
-French: To you sovereign king, my most powerful creator, my most loving redeemer, Jesus
+French: 
