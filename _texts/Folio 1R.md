@@ -44,7 +44,7 @@ trop grand mesaise quant iay regarde le
 
 louyer de gloire qui nous est promis le
 
-quell louyer nulz me puet desseruir Ne 
+quell louyer nulz ne puet desseruir Ne 
 
 onques ne doubtay tempeste ne temptacion
 
