@@ -15,7 +15,7 @@ A few simple rules have been followed:
 
 I do not distinguish between “v” and “u” which are generally not differentiated in the gothic bastarda script used by the scribe of this manuscript. 
 
-I have conserved “i” and “j” wherever they are clearly distinct. Though in principle these letters are not distinct in this manuscript, the “j” form tends to occur primarily in the initial position. This does not prevent the scribe from occasionally employing an initial “i” from time to time in expressions such as “iay” for “jay,” “I have,” in English. 
+I have conserved “i” and “j” wherever they are clearly distinct. Though in principle these letters are not distinguished in this manuscript, the “j” form tends to occur primarily in the initial position. This does not prevent the scribe from occasionally employing an initial “i” from time to time in expressions such as “iay” for “jay,” “I have,” in English. 
 
 I use capital letters in my transcription to mark several phenomena within the manuscript. Capital letters occur to replace illuminated initials, highlighted letters in the body of the text, and capital letter forms wherever they may perchance occur in the body of the text even though they are not necessarily set off by illumination of any form. 
 
