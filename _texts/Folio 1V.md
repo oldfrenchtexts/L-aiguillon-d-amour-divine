@@ -10,39 +10,39 @@ source: Beinecke MS 1166
 
 # Transcription
 
-de creature quant iay regarde la droitu 
+de creature quant jay regarde la droitu 
 
 riere sentence de nostre seigneur qui mestoit don 
 
-nee pour droit iugement auoir Ne onques 
+nee pour droit jugement auoir Ne onques 
 
 ne me greua faussete de fiance que ie trou 
 
 uasse en creature quant iay regarde que 
 
-iauoie este a dieu si mal fiable Ne onques 
+jauoie este a dieu si mal fiable Ne onques 
 
-ne quis solas en creature quant iay re
+ne quis solas en creature quant iay re 
 
 garde que sanz tache de pechie ne le pou 
 
-oie maintenir et pource mon cuer est es 
+oie maintenir Et pource mon cuer est es 
 
 cieulz auec les angelz Ne onques ne 
 
 me pleut le monde quant iay regarde 
 
-que iestoie en chartre dedens Ne onques 
+que jestoie en chartre dedens Ne onques 
 
 ne me pleut mille manière douceur du 
 
-monde quant iay pense a la tresdoulce 
+monde quant jay pense a la tresdoulce 
 
 melodie qui est entre les angelz et les 
 
 sains en gloire Ne onques ne me peut 
 
-nulle tribulation destourber quant iay 
+nulle tribulation destourber quant jay 
 
 regarde que sy peu duroit et le grant loyer 
 
