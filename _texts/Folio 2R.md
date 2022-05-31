@@ -52,7 +52,7 @@ la personne gardoit
 
 # Translation
 
-French: I considered the multitude of my sins and my evil inclinations and my weakness. I never feared too greatly when I considered the greatness of my God’s mercy. I never prided myself on account of honors given to me when I considered my poor life. I never feared death when I considered that God died for me. I never feared too much the judgement of our Lord when I considered that he who would judge me had for love of me bore grievous suffering. The blessed angel of God taught a person of religion to hold and flee this life in order to live peacefully in this world both in heart and conscience and in order to come surely to the Kingdom of Paradise. This angel was the same who had guard of the person.
+French: I considered the multitude of my sins and my evil inclinations and my weakness. I never feared too greatly when I considered the greatness of my God’s mercy. I never prided myself on account of honors given to me when I considered my poor life. I never feared death when I considered that God died for me. I never feared too much the judgement of our Lord when I considered that he who would judge me had, for love of me, boren grievous suffering. The blessed angel of God taught a person of religion to hold and flee this life in order to live peacefully in this world both in heart and conscience and in order to come surely to the Kingdom of Paradise. This angel was the same who had guard of the person.
 
 # Footnotes:
 
