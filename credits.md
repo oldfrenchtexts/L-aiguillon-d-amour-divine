@@ -5,7 +5,7 @@ title: Credits
 
 ### [Aaron Richard Kestle](https://github.com/oldfrenchtexts) | Medieval Scholar
 
-Aaron Kestle is a Ph.D. candidate in the Yale French Department. He works on texts in a variety of Medieval languages.
+Aaron Kestle is a Ph.D. candidate in the Yale French Department. Though he works on texts in a variety of Medieval languages, his primary interest is medieval vernacular French. In addition to his dissertation, he is currently exploring digital editions as a tool for increasing public access to lesser known medieval texts. 
 
 ---
 
