@@ -13,7 +13,7 @@ In preparing this edition, I have sought to render the original orthography as c
 
 A few simple rules have been followed:
 
-I do not distinguish between “v” and “u” which are indistinguishable in the gothic bastarda script used by the scribe of this manuscript. 
+I do not distinguish between “v” and “u” which are generally not differentiated in the gothic bastarda script used by the scribe of this manuscript. 
 
 I have conserved “i” and “j” wherever they are clearly distinct. Though in principle these letters are not distinct in this manuscript, the “j” form tends to occur primarily in the initial position. This does not prevent the scribe from occasionally employing an initial “i” from time to time in expressions such as “iay” for “jay,” “I have,” in English. 
 
