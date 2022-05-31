@@ -6,7 +6,7 @@ editor: Aaron Kestle
 source: Beinecke MS 1166
 ---
 
-![Beinecke MS 1166 Folio 2V](https://github.com/oldfrenchtexts/L-aiguillon-d-amour-divine/blob/39a435f1bafc2301ef31d8406a069554c6edcc9a/assets/2V.jpg)
+![Beinecke MS 1166 Folio 2V](https://raw.githubusercontent.com/oldfrenchtexts/L-aiguillon-d-amour-divine/master/assets/2V.jpg)
 
 # Transcription
 
