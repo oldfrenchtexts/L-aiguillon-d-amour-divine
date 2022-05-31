@@ -6,16 +6,16 @@ editor: Aaron Kestle
 source: Beinecke MS 1166
 ---
 
-![Beinecke MS 1166](https://raw.githubusercontent.com/oldfrenchtexts/randomtexts/master/assets/Beinecke%20MS%201166%20Small.jpg)
+![Beinecke MS 1166 Folio 2V](https://github.com/oldfrenchtexts/L-aiguillon-d-amour-divine/blob/39a435f1bafc2301ef31d8406a069554c6edcc9a/assets/2V.jpg)
 
 # Transcription
 
-**Ave** maria gracia plena dominus tecum
-
-**A** toy roy souverain mon trespuissant createur mon tresamoureux redempteur jhesus
+Cy comance le prologue de laguillon damour diuine Jhesus Maria
 
 # Translation
 
-Latin: Hail, Mary, full of grace, the Lord is with thee
+French: Here begins the prologue of the *Aiguillon d’amour divine*<sup><a href="#fn1" id="ref1">\*</a></sup>. Jesus. Mary. 
 
-French: To you sovereign king, my most powerful creator, my most loving redeemer, Jesus
+# Footnotes
+
+<sup id="fn1">*</sup>*The Stimulus Amoris* was also translated into Middle English as *The Prickynge of Love*. In Modern English it could also be rendered *The Goad (or Sting) of Divine Love*.
