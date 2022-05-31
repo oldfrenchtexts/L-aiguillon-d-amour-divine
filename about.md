@@ -23,7 +23,7 @@ Images of the folios have been included for comparison. If the reader requires a
 
 ## Translation Philosophy
 
-For my translation, I have cultivated a middle of the road approach. While I have done my best to respect the syntax, form, and content of the original, I have nevertheless labored to make the translation legible to an initiated reader of medieval vernacular literature. A few items are footnoted for clarity. 
+For my translation, I have cultivated a middle of the road approach. While I have done my best to respect the syntax, form, and content of the original, I have nevertheless labored to make the translation legible to an uninitiated reader of medieval vernacular literature. A few items are footnoted for clarity. 
 
 ## Bibliography/Works Cited
 
