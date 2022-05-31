@@ -10,9 +10,7 @@ source: Beinecke MS 1166
 
 # Transcription
 
-Beaulz enseignemens pour bien uiure
-
-Ung angele de paradis saparut a
+Ung Angele de paradis saparut a 
 
 une personne de religion et lui aprit 
 
@@ -22,35 +20,35 @@ pour uenir securement au royaume des cieulz
 
 et lui dist Onques ne fus trop poure 
 
-quant iay regarde lentree que ieuz en ce monde 
+quant jay regarde lentree que ieuz en ce monde 
 
-et iay regarde mon yssue quant ien ysseray
+et jay regarde mon yssue quant jen ysseray 
 
-et quant iay regarde le benoit filz de dieu ihesus 
+et quant jay regarde le benoit filz de dieu jhesus 
 
-crist pourement naissant et plus pourement
+crist pourement naissant et plus pourement 
 
-uiuant et trespourement en la croix morant
+uiuant et trespourement en la croix morant 
 
-Ne onques me fus trop malade quant iay
+Ne onques me fus trop malade quant jay 
 
 regarde la mort que payer me conuient et 
 
-parmi la quele me conuient entrer en la
+parmi la quele me conuient entrer en la 
 
 uie pardurable Ne onques me doubtay 
 
-trop grand mesaise quant iay regarde le
+trop grand mesaise quant jay regarde le 
 
-louyer de gloire qui nous est promis le
+louyer de gloire qui nous est promis le 
 
 quell louyer nulz ne puet desseruir Ne 
 
-onques ne doubtay tempeste ne temptacion
+onques ne doubtay tempeste ne temptacion 
 
-ne les ennemis quant iay regarde que
+ne les ennemis quant jay regarde que 
 
-iestoie es puissans mains de nostre seigneur Ne
+jestoie es puissans mains de nostre seigneur Ne 
 
 onques de doubtay blaspheme ne menaces
 
