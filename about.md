@@ -5,7 +5,7 @@ title: About
 
 ## Description of the Manuscript
 
-This is a mid-fifteenth century manuscript. It contains a French translation of James of Milun’s Stimulus Amoris. This translation is attributed to Simon de Courcy who dedicated the work to Marie de Berry the Duchess of Bourbon. Simon de Courcy was Marie’s Chaplain and likely translated this popular devotional treatise sometime in the first quarter of the fifteenth century. For additional information regarding the manuscript please consult the [Beinecke’s listing](https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.ms1166.htm).
+This is a mid-fifteenth century manuscript. It contains a French translation of James of Milun’s *Stimulus Amoris*. This translation is attributed to Simon de Courcy who dedicated the work to Marie de Berry the Duchess of Bourbon. Simon de Courcy was Marie’s Chaplain and likely translated this popular devotional treatise sometime in the first quarter of the fifteenth century. For additional information regarding the manuscript please consult the [Beinecke’s listing](https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.ms1166.htm).
 
 ## Methodology 
 
