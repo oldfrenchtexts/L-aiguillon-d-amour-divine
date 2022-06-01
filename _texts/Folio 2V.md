@@ -18,4 +18,4 @@ French: Here begins the prologue of the *Aiguillon d’amour divine*.<sup><a hre
 
 # Footnotes
 
-*The *Stimulus Amoris* was also translated into Middle English as *The Prickynge of Love*. In Modern English it could also be rendered *The Goad (or Sting) of Divine Love*.
+<sup>*</sup>The *Stimulus Amoris* was also translated into Middle English as *The Prickynge of Love*. In Modern English it could also be rendered *The Goad (or Sting) of Divine Love*.
