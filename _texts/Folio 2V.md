@@ -14,7 +14,7 @@ Cy comance le prologue de laguillon damour diuine Jhesus Maria
 
 # Translation
 
-French: Here begins the prologue of the *Aiguillon d’amour divine*.<sup><a href="#fn1" id="ref1">\*</a></sup> Jesus. Mary. 
+French: Here begins the prologue of the *Aiguillon d’amour divine*.[^1] Jesus. Mary. 
 
 # Footnotes
 
