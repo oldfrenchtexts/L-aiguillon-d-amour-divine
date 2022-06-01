@@ -12,7 +12,7 @@ source: Beinecke MS 1166
 
 jay regarde la multitude de mes pechiez 
 
-et mes maises<sup><a href="#fn1" id="ref1">\*</a></sup> inclinations et ma fe 
+et mes maises[^1] inclinations et ma fe 
 
 blesce Ne onques neuz trop grant paour 
 
@@ -56,4 +56,4 @@ French: I considered the multitude of my sins and my evil inclinations and my we
 
 # Footnotes:
 
-<sup id="fn1">*</sup>In his Dictionary of the Old French Language, Frédéric Godefroy defines the term "maise" as a substantive meaning a misdead "mauvaise action." However, in this case, as the term is being used adjectivaly it may simply be a mispelling or contraction of the plural feminine adjective "mauvaises." 
+[^1]: In his Dictionary of the Old French Language, Frédéric Godefroy defines the term "maise" as a substantive meaning a misdead "mauvaise action." However, in this case, as the term is being used adjectivaly it may simply be a mispelling or contraction of the plural feminine adjective "mauvaises." 
