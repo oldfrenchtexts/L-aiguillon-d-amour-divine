@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Folio 3R
+title: Folio 10R
 author: James of Milan
 editor: Aaron Kestle
 source: Beinecke MS 1166
