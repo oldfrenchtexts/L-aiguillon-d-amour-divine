@@ -54,11 +54,10 @@ en ouurer miroir et exemplarre[^2] de sainte
 
 # Translation
 
-French: Here begins the prologue of the *Aiguillon d’amour divine*. Jesus. Mary. 
+French: Jesus killed shamefully, bitterly hurt, benign innocent King Christ, pure spouse of divine love, prompt to obey the commandments of God, virtuously resisting the temptations of the devils, merciful to the indigent, aflame with charity, rigorous to his own body, joyous in adversity, temperate in prosperity, diligent in good works, elevated in contemplation, white on account of virginity, stranger to the world, made to be crucified, humble of heart, innocent in thought, sober in speech, just in works, a mirror and exemplar of holy… 
 
 # Footnotes
 
 [^1]: The abbreviation of Christ uses the Greek letters “chi” and “rho.” It is likely derived from common Latin abbreviations used for the various forms of the title “Christ.”
 
 [^2]: Exemplarre is likely a scribal error for exemplaire. Compare with BNF fr. 926 folio 2r. 
-
