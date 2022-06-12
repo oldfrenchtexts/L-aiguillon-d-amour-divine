@@ -9,7 +9,7 @@ This is a mid-fifteenth century manuscript. It contains a French translation of 
 
 ## Methodology 
 
-In preparing this edition, I have sought to render the original orthography as closely as possible with several key exceptions. This edition is neither diplomatic nor critical, though it is based on a single manuscript source. Additional manuscript sources, many of which can be found at the Bibliothèque National de France (BNF), may figure in some future iteration. Rather, this is an ongoing project the intent of which is to make this relatively uncommon and understudied text accessible for free to a general audience both in transcription and in an accompanying Modern English translation .
+In preparing this edition, I have sought to render the original orthography as closely as possible with several key exceptions. This edition is neither diplomatic nor critical, though it is based primarily on a single manuscript source. For comparison, I will occasionally reference BNF Fr. 926, an early fifteenth-century copy of the same text. Additional manuscript sources, many of which can be found at the Bibliothèque National de France (BNF), may figure in some future iteration of this edition. Rather, this is an ongoing project the intent of which is to make this relatively uncommon and understudied text accessible for free to a general audience both in transcription and in an accompanying Modern English translation .
 
 A few simple rules have been followed:
 
