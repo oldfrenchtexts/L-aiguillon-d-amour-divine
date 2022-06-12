@@ -1,12 +1,12 @@
 ---
 layout: narrative
-title: Folio 2V
+title: Folio 3R
 author: James of Milan
 editor: Aaron Kestle
 source: Beinecke MS 1166
 ---
 
-![Beinecke MS 1166 Folio 2V](https://raw.githubusercontent.com/oldfrenchtexts/L-aiguillon-d-amour-divine/master/assets/2V.jpg)
+![Beinecke MS 1166 Folio 3R](https://raw.githubusercontent.com/oldfrenchtexts/L-aiguillon-d-amour-divine/master/assets/3R.jpg)
 
 # Transcription
 
