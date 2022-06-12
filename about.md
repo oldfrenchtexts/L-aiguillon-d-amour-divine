@@ -19,6 +19,8 @@ I have conserved “i” and “j” wherever they are clearly distinct. Though 
 
 I use capital letters in my transcription to mark several phenomena within the manuscript. Capital letters occur to replace illuminated initials, highlighted letters in the body of the text, and capital letter forms wherever they may perchance occur in the body of the text even though they are not necessarily set off by illumination of any form. 
 
+I have expanded most scribal abbreviations, especially those that leave little room for confusion: omitted letters, nasal bars, superscript letters, etc. Any other abbreviations I have left behind on account of their ambiguity or peculiarity are explained in the footnotes.
+
 Images of the folios have been included for comparison. If the reader requires any further information regarding the manuscript, I will refer them to the [Beinecke's listing](https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.ms1166.htm).
 
 ## Translation Philosophy
