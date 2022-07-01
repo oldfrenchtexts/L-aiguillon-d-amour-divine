@@ -20,7 +20,7 @@ pour uenir securement au royaume des cieulz
 
 et lui dist Onques ne fus trop poure 
 
-quant jay regarde lentree que ieuz en ce monde 
+quant jay regarde lentree que jeuz en ce monde 
 
 et jay regarde mon yssue quant jen ysseray 
 
