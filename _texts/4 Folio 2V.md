@@ -10,11 +10,11 @@ source: Beinecke MS 1166
 
 # Transcription
 
-Cy comance le prologue de laguillon damour diuine Jhesus Maria
+Cy comance le prologue de laguillon damour diuine Ihesus Maria
 
 # Translation
 
-French: Here begins the prologue of the *Aiguillon d’amour divine*.[^1] Jesus. Mary. 
+French: Here begins the prologue of the *Aiguillon d’amour divine*.[^1] Iesus. Mary. 
 
 # Footnotes
 
