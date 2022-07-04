@@ -46,9 +46,9 @@ quell louyer nulz ne puet desseruir Ne
 
 onques ne doubtay tempeste ne temptacion 
 
-ne les ennemis quant jay regarde que 
+ne les ennemis quant iay regarde que 
 
-jestoie es puissans mains de nostre seigneur Ne 
+iestoie es puissans mains de nostre seigneur Ne 
 
 onques de doubtay blaspheme ne menaces
 
