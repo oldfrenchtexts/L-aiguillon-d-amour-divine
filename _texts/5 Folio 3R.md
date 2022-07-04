@@ -38,7 +38,7 @@ aux temptacions des enemis misericors
 
 aux indigens ardent en charite rigo 
 
-reuse a son corps joyeuse en aduersite 
+reuse a son corps ioyeuse en aduersite 
 
 attempree en prosperite diligente en bo 
 
@@ -48,7 +48,7 @@ blanche par chastete estrange au monde
 
 transformee en crucefie humble de cuer 
 
-jnnocente en penser sobre en parler Juste 
+innocente en penser sobre en parler Iuste 
 
 en ouurer miroir et exemplarre[^2] de sainte 
 
