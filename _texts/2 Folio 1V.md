@@ -34,7 +34,7 @@ me pleut le monde quant iay regarde
 
 que jestoie en chartre dedens Ne onques 
 
-ne me pleut mille manière douceur du 
+ne me pleut mille maniere douceur du 
 
 monde quant jay pense a la tresdoulce 
 
