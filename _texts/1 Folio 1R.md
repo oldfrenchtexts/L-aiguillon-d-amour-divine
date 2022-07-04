@@ -20,17 +20,17 @@ pour uenir securement au royaume des cieulz
 
 et lui dist Onques ne fus trop poure 
 
-quant jay regarde lentree que jeuz en ce monde 
+quant iay regarde lentree que ieuz en ce monde 
 
-et jay regarde mon yssue quant jen ysseray 
+et iay regarde mon yssue quant ien ysseray 
 
-et quant jay regarde le benoit filz de dieu jhesus 
+et quant iay regarde le benoit filz de dieu ihesus 
 
 crist pourement naissant et plus pourement 
 
 uiuant et trespourement en la croix morant 
 
-Ne onques me fus trop malade quant jay 
+Ne onques me fus trop malade quant iay 
 
 regarde la mort que payer me conuient et 
 
@@ -38,7 +38,7 @@ parmi la quele me conuient entrer en la
 
 uie pardurable Ne onques me doubtay 
 
-trop grand mesaise quant jay regarde le 
+trop grand mesaise quant iay regarde le 
 
 louyer de gloire qui nous est promis le 
 
