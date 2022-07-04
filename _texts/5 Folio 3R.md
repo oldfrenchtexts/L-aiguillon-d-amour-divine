@@ -38,7 +38,7 @@ aux temptacions des enemis misericors
 
 aux indigens ardent en charite rigo 
 
-reuse a son corps Joyeuse en adversite 
+reuse a son corps Joyeuse en aduersite 
 
 attempree en prosperite diligente en bo 
 
