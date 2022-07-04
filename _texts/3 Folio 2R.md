@@ -10,13 +10,13 @@ source: Beinecke MS 1166
 
 # Transcription
 
-jay regarde la multitude de mes pechiez 
+iay regarde la multitude de mes pechiez 
 
 et mes maises[^1] inclinations et ma fe 
 
 blesce Ne onques neuz trop grant paour 
 
-quant jay regarde la grandeur de la mi 
+quant iay regarde la grandeur de la mi 
 
 sericorde de mon dieu Ne onques ne 
 
@@ -26,13 +26,13 @@ feyt quant iay regarde ma poure uie
 
 Ne onques ne me doubtay de la mort 
 
-quant jay regarde que dieu morut pour 
+quant iay regarde que dieu morut pour 
 
 moy Ne onques ne doubtay trop le 
 
-jugement nostre Seigneur quant jay regarde que 
+iugement nostre Seigneur quant iay regarde que 
 
-cellui me jugeroit qui pour lamor de 
+cellui me iugeroit qui pour lamor de 
 
 moy souffrit mort et griesue passion 
 
