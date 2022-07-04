@@ -48,7 +48,7 @@ blanche par chastete estrange au monde
 
 transformee en crucefie humble de cuer 
 
-innocente en penser sobre en parler Iuste 
+innocente en penser sobre en parler iuste 
 
 en ouurer miroir et exemplarre[^2] de sainte 
 
