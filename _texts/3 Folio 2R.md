@@ -32,7 +32,7 @@ moy Ne onques ne doubtay trop le
 
 jugement nostre Seigneur quant jay regarde que 
 
-cellui me iugeroit qui pour lamor de 
+cellui me jugeroit qui pour lamor de 
 
 moy souffrit mort et griesue passion 
 
