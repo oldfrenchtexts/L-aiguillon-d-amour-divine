@@ -11,25 +11,45 @@ source: Beinecke MS 1166
 # Transcription
 
 uie Especialment fiancier ioinder et traire
+
 a soy par amoureux marriage Amoureuse
+
 ment desirant et requerant ardent desir que
-uous soyez icelle o ma treschiere fille et 
+
+uous soyez icelle o ma treschiere fille et
+
 ferme Esperance que ainsi sera me ont trait
+
 et conduit en laborieuse cure de translater
+
 et descripre laguillon damour divine de
+
 latin en fransois non pas de mot a mot
+
 mais par tele maniere que en le solitaire
+
 ment lisant o ma treschiere fille tu seras
+
 presente[^1] a ton ame come docteur a son disciple
+
 Et a dieu seras tu presente come espouse
+
 et amie familiere de son filz le doulz ihesus
+
 ainsi come plainement apperra par la ma
+
 niere de proceder Car en lisant attente
+
 ment et devotement o treschiere fille tu par
+
 leras aucune fois a ton ame come docteur en
+
 seignant son disciple Et telement que ma
+
 presence coporele ne te sera pas necessaire
+
 Aucune foiz en le lisant tu parleras a dieu
+
 come le deuotement priant en oroison
 
 # Translation
