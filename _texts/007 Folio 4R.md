@@ -58,5 +58,4 @@ French: And, however many different matters there may be, differing greatly one 
 
 # Footnotes
 
-[^1]: In BNF fr. 926, “desire” is followed by “pour” which grammatically and semantically makes much more sense. In Beinecke 1166, this preposition is missing. ![image](https://user-images.githubusercontent.com/93285913/179365650-a1e2e970-c2f9-4002-80d9-9edc84fac5b9.png)
-
+[^1]: In BNF fr. 926, “desire” is followed by “pour” which grammatically and semantically makes much more sense. In Beinecke 1166, this preposition is missing.
