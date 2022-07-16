@@ -59,4 +59,4 @@ French: … about diverse spiritual consolations, containing eight chapters. In 
 
 # Footnotes
 
-[^1]: “Fontalment,” from the adjective “fontal,” is derived from a term relating to fountains. In the French, it is roughly a synonymous repetition of the term “originelement.”
+[^1]: “Fontalment,” from the adjective “fontal,” is derived from a term relating to fountains. In the French, it is basically a repetition of or a synonym for the preceding term “originelement.”
