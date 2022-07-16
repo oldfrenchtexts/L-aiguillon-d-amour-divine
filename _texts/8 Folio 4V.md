@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Folio 4R
+title: Folio 4V
 author: James of Milan
 editor: Aaron Kestle
 source: Beinecke MS 1166
