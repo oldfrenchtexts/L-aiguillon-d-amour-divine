@@ -10,9 +10,27 @@ source: Beinecke MS 1166
 
 # Transcription
 
-**Ave** maria gracia plena dominus tecum
+Aue maria gracia plena do
 
-**A** toy roy souverain mon trespuissant createur mon tresamoureux redempteur jhesus
+minus tecum A toy roy
+
+souverain mon trespuissant
+
+createur mon tresamoureux
+
+redempteur ihesus de toute ma
+
+force de tout mon cuer de toute ma pen
+
+see je te rens graces et mercis de ce que
+
+ma poure humanite tu daingnas ion
+
+dre a ta noble et precieuse diuinite pour
+
+Lamour de moy et en uirginel uentre
+
+conceu et nez de uierge nourish de feme
 
 # Translation
 
