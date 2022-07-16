@@ -28,7 +28,7 @@ ma poure humanite tu daingnas ion
 
 dre a ta noble et precieuse diuinite pour
 
-Lamour de moy et en uirginel uentre
+lamour de moy et en uirginel uentre
 
 conceu et nez de uierge nourish de feme
 
