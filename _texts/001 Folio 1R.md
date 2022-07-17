@@ -10,6 +10,8 @@ source: Beinecke MS 1166
 
 # Transcription
 
+Beaulz ensignemens por bien uiure
+
 Ung Angele de paradis saparut a 
 
 une personne de religion et lui aprit 
