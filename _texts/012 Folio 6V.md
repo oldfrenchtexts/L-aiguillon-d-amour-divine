@@ -42,7 +42,7 @@ Ou .uii.<sup>e</sup> chapitre tu porras contempler com
 
 ment ame deuote en meditant deuotement
 
-ceste benoite passion recoit les uii dons du saint esperit .c.xx.
+ceste benoite passion recoit les .uii. dons du saint esperit .c.xx.
 
 Ou .viii.<sup>e</sup> chapitre tu porras
 
