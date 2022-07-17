@@ -34,7 +34,7 @@ Ou .xiiii. chapitre
 
 tu contempleras comment ame deuote ou 
 
-repos de contemplacion es doucement enyuree
+repos de contemplacion est doucement enyuree
 
 par pluseurs inebriacions .lxxii.
 
