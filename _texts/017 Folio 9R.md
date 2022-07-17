@@ -18,7 +18,7 @@ ainsi sera par la grace de dieu et par la
 
 grant diligence que tu prenras dacom
 
-plir ceste presente doctrince Euure donc
+plir ceste presente doctrine Euure donc
 
 ton cuer o treschiere fille et toute la sen
 
