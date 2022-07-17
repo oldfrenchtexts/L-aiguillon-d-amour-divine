@@ -30,7 +30,7 @@ dre a ta noble et precieuse diuinite pour
 
 lamour de moy et en uirginel uentre
 
-conceu et nez de uierge nourish de feme
+conceu et nez de uierge nouris de feme
 
 # Translation
 
