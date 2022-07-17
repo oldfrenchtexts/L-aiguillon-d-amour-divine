@@ -10,7 +10,7 @@ source: Beinecke MS 1166
 
 # Transcription
 
-comment le cuer de la mere Ihesus comme nurez
+comment le cuer de la mere Ihesus comme naurez
 
 decrachie crucifie et despines couronnez
 
