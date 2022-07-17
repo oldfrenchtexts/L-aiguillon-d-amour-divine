@@ -40,7 +40,7 @@ passion nostre Seigneur ihesus Et se chapitre estu
 
 die diligemment  o ma treschiere fille Car
 
-our uray cest la clef et louuerture de
+pour uray cest la clef et louuerture de
 
 toute perfection Et ie ne doubte pas que
 
