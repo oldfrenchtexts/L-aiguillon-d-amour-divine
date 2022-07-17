@@ -16,7 +16,7 @@ decrachie crucifie et despines couronnez
 
 est le parfait exemplaire de parfait compass
 
-sion de la passion de son trescher cilz Ihesus .c.ui.
+sion de la passion de son trescher filz Ihesus .c.ui.
 
 Ou quart chapitre tu porras contempler
 
