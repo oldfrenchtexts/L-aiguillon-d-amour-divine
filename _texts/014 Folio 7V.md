@@ -27,7 +27,7 @@ tiue et uertueusement conuersiue .c.lxxui.
 
 Ou .ui.<sup>e</sup> chapitre tu porras contempler comment
 
-le corps de duote ame se complaint de ihesus
+le corps de deuote ame se complaint de ihesus
 
 a dieu le pere de ce quil lui a ostee son ame 
 
