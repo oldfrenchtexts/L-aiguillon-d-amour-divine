@@ -50,7 +50,7 @@ ment que tu soie tele Et ne fay force de le
 
 sauoir en ceste uie mortele car le seul cui
 
-die rest tres perilleux nonobstant quil fut
+dier est tres perilleux nonobstant quil fut
 
 # Translation
 
