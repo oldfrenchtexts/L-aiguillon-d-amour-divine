@@ -44,7 +44,7 @@ o ma chiere fille de ceste charitable manière de parler
 
 fayz ton profit Se tu es tele tu ne le peus
 
-sauoir enc e monde mais estudie diligen
+sauoir en ce monde mais estudie diligen
 
 ment que tu soie tele Et ne fay force de le
 
