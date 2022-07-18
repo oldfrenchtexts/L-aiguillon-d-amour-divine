@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Folio 7V
+title: Folio 7v
 author: James of Milan
 editor: Aaron Kestle
 source: Beinecke MS 1166
