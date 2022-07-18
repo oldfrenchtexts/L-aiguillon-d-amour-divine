@@ -34,6 +34,6 @@ conceu et nez de uierge nouris de feme
 
 # Translation
 
-Latin: Hail, Mary, full of grace, the Lord is with thee
+Latin: Hail Mary full of grace, the Lord is with thee.
 
-French: To you sovereign king, my most powerful creator, my most loving redeemer, Jesus
+French: To you sovereign King, my most powerful Creator, my most loving Redeemer, Jesus. With all my strength, with all my heart, with all my thought, I give grace to you and thanks that you deigned join my poor humanity to your noble and precious divinity for the love of me and in a virginal womb you were conceived and born of a virgin, nourished by a woman… 
