@@ -53,7 +53,8 @@ ons appert en general que de toutes matieres
 
 # Translation
 
-French: 
+French: In the third chapter, you will be able to contemplate how a devout soul prepares herself diligently to receive in sacrament her sweet spouse, Jesus. One hundred and sixty-five. In the third chapter, you will be able to contemplate how a devout soul loves only God. One hundred and seventy-five. In the fifth chapter, you will be able to contemplate how divine love is marvelously active and virtuously transformative. One hundred and seventy-six. In the sixth chapter, you will be able to contemplate how the body of the devout soul complains of Jesus to God, the Father, how he took its soul and joined her to himself with insoluble love. One hundred and twenty-nine. In the seventh chapter, you will be able to contemplate how a devout soul seeks the salvation of her neighbor without impeding her own salvation. One hundred and eighty-three. In the eighth chapter, you will be able to conclude that the devout soul yet residing in that valley of misery contemplates somewhat the inestimable glory of paradise. One hundred and eighty-six.  Thus, by the chapter headings, it appears in general that of all the matters… 
 
 # Footnotes
 
+While the adjective “conversif” means “turning,” “moving in a circular fashion,” or “changing” according to Godefroy’s Dictionnaire, in this particular case, I believe “conversif” possesses a spiritually transformative valence, as in its power to convert someone in a religious sense. It is worth noting that Godefroy himself cites from the Aiguillons d’amour divine for one of his own examples; in a devotional context, this particular meaning seems the most probable. See Godefroy, Dictionnaire, s.v. “conversif.”
