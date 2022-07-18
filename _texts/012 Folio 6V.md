@@ -54,7 +54,7 @@ Ou .ix.<sup>e</sup> chapitre tu porras contempler en ceste
 
 # Translation
 
-French: 
+French: …how the heart of the mother of Jesus, as though wounded, spat upon, crucified, and crowned with spines, is the perfect example of perfect compassion for the suffering of her most beloved son, Jesus. One hundred and six. In the fourth chapter, you will be able to contemplate how this blessed suffering performs marvelous and virtuous operations in the devout soul. One hundred and eleven. In the fifth chapter, you will be able to contemplate how a devout soul can find a fullness of salvific virtues in this blessed suffering. One hundred and seventeen. In the sixth chapter, you will be able to contemplate how, for the devout soul, this blessed suffering is a motivation and an example to keep the Ten Commandments of the law of God. One hundred and nineteen. In the seventh chapter you will be able to contemplate how the devout soul, by devoutly meditating this blessed suffering, receives the seven gifts of the Holy Spirit. One hundred and twenty. In the eighth chapter, you will be able to again more briefly contemplate the mystery of the seven gifts of the Holy Spirit in this blessed suffering. One hundred and thirty-two. In the nineth chapter, you will be able to contemplate in this… 
 
 # Footnotes
 
