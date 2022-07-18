@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Folio 5R
+title: Folio 5r
 author: James of Milan
 editor: Aaron Kestle
 source: Beinecke MS 1166
