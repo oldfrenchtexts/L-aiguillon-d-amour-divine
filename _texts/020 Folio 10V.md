@@ -12,7 +12,7 @@ source: Beinecke MS 1166
 
 de lait uirginal et soubgis a feme qui toutes
 
-creatures gouuerne et nourish par ton infi
+creatures gouuerne et nouris par ton infi
 
 nie sapience et prouidence A moy tremi
 
