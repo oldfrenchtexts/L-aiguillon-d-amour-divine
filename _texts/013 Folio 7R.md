@@ -55,6 +55,3 @@ ment les temptacions sont profitables a ame deuote .c.lxu.
 # Translation
 
 French: …blessed suffering, the fulfillment of the seven works of mercy. One hundred and thirty-nine. In the tenth chapter, you will be able to contemplate how by meditating upon this blessed suffering, without corporal labor, a devout soul fulfills the seven works of mercy. One hundred and forty-three. In the eleventh chapter, you will be able to contemplate how, in this blessed suffering, the eight beatitudes of a devout soul, which Jesus describes in the Gospel, shine forth. One hundred and forty-three. In the twelfth chapter you will be able to contemplate how, in this blessed suffering, all the perfections of the blessed angels and the beatitude of all the glorious Saints shine forth. One hundred and forty-four. In the thirteenth chapter, you will be able to contemplate how a devout soul, the spouse of Jesus, causes this blessed suffering to be wed to her heart. One hundred and fifty-one. In the first chapter of the fourth part, you will be able to contemplate why and for what reason God permits the devout soul to be tempted. One hundred and sixty. In the second chapter, you will be able to contemplate how the temptations are profitable to a devout soul. One hundred and sixty-five.
-
-# Footnotes
-
