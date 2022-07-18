@@ -61,4 +61,4 @@ French: … about diverse spiritual consolations, containing eight chapters. In 
 
 [^1]: “Fontalment,” from the adjective “fontal,” is derived from a term relating to fountains. In the French, it is basically a repetition of or a synonym for the preceding term “originelement.” See Godefroy, *Dictionnaire*, s.v. "fontal."
 
-[^1]: I have selected to use female pronouns to refer to the soul as it reflects the grammatical gender of the word "ame" (soul in Old French). Furthermore, it helps to underscore the allegorical marriage of the soul with Christ which is developed throughout the text. 
+[^2]: I have selected to use female pronouns to refer to the soul as it reflects the grammatical gender of the word "ame" (soul in Old French). Furthermore, it helps to underscore the allegorical marriage of the soul with Christ which is developed throughout the text. 
