@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Folio 9V
+title: Folio 9v
 author: James of Milan
 editor: Aaron Kestle
 source: Beinecke MS 1166
