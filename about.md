@@ -31,6 +31,8 @@ For my translation, I have cultivated a middle of the road approach. While I hav
 
 *The Anglo-Norman Dictionary* (Aberystwyth: University of Aberystwyth) [anglo-norman.net](https://www.anglo-norman.net/entry/).
 
+*Centre National de Ressources Textuelles et Lexicales* (*CNRTL*) (Nancy: Nancy Université, 2013) [https://www.cnrtl.fr/](https://www.cnrtl.fr/)
+
 Godefroy, Frédéric, [*Dictionnaire de l’ancienne langue française et de tous ses dialects du IXe au XVe siècle*](http://micmap.org/dicfro/search/dictionnaire-godefroy/a), 5 volumes (Paris: F. Vieweg, 1888).
 
 Venuti, Lawrence, *Translation Changes Everything: Theory and Practice* (New York: Routledge, 2013). 
