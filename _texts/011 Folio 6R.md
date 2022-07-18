@@ -55,6 +55,3 @@ Ou tier chapitre tu porras contempler
 # Translation
 
 French: In the eighteenth chapter, you will be able to contemplate how a devout soul must above all else be perfectly humble and by what means one might accomplish this. Eighty-eight. In the first chapter of the third part, O my dearest daughter, you will be able to clearly contemplate how a devout soul profits and progresses in the perfection of the contemplative life by devoutly meditating upon the passion of our Lord and our Redeemer, Jesus. Ninety-two. In the second chapter, you will be able to contemplate how and by what means a devout soul reaches a perfect compassion from the hard suffering of our Lord, Jesus; study this chapter diligently, O my dearest daughter, for certainly, this is the key and the doorway to all perfection. I do not doubt that if you do your duty according to the teachings it holds, you will easily accomplish all the teachings of this book. One hundred. In the third chapter, you will be able to contemplate… 
-
-# Footnotes
-
