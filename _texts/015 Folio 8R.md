@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Folio 8R
+title: Folio 8r
 author: James of Milan
 editor: Aaron Kestle
 source: Beinecke MS 1166
