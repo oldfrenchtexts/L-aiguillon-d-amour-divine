@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Folio 6V
+title: Folio 6v
 author: James of Milan
 editor: Aaron Kestle
 source: Beinecke MS 1166
