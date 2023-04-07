@@ -58,4 +58,4 @@ French: …very much like a thing that is very well possible. And, would that yo
 
 # Footnotes
 
-[^1]: This is obviously a reference to the tree in the Garden of Eden named in *Genesis* 2:3. The full name "of knowledge of good and evil" does not occur in the original Old French. I have expanded it in my translation for clarity. 
+[^1]: This is a reference to the tree in the Garden of Eden named in *Genesis* 2:3. The full name "of knowledge of good and evil" does not occur in the original Old French. I have expanded it in my translation for clarity. 
